@@ -5,3 +5,5 @@ Hallo
 <br>
 
 Dengan Blade Hallo {{ $nama }}
+
+tes
